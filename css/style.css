@@ -384,7 +384,8 @@ h6.lhd-event-date {
   font-size: 20px;
   padding: 20px 50px;
   transition: all ease 0.8s;
-  margin: 0 10px;
+  font-size: 0.8em;
+  white-space: nowrap;
 }
 
 .join-button:hover {
